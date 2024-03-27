@@ -1,4 +1,5 @@
 let canvas = document.getElementById('canvas');
+
 let ctx = canvas.getContext('2d');
 // Grösse Spielfeld //
 let rows = 20;
